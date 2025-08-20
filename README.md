@@ -1,6 +1,10 @@
 # Noir_SF200_Theme
 Theme for Datafrog SF2000, withdark colors, inspired by garlicOS theme by Zerter.
 
+# Preview 
+
+<img width="645" height="486" alt="NoirSF2000" src="https://github.com/user-attachments/assets/d5ccbe57-5476-4b6c-88ab-15b15749fe51" />
+
 # How to "install" the theme:
 
 -insert sd card to PC
@@ -17,7 +21,7 @@ Theme for Datafrog SF2000, withdark colors, inspired by garlicOS theme by Zerter
 
 I also included the editable **.psd** files, so you can easily modify the images and further customize the theme to match your preferences. Some layers are a little messed up, but you can figure them out eventually. Shapes and text are not rasterized, so you can change the colors more easily.
 
-Each **.psd** file comes with a matching .png preview, so you can quickly see what it’s about.
+Each **.psd** file comes with a matching **.png** preview, so you can quickly see what it’s about.
 
 # Tools
 
@@ -25,9 +29,7 @@ Convertion tool used: https://vonmillhausen.github.io/sf2000/tools/genericImageT
 
 Assets list and reference: https://vonmillhausen.github.io/sf2000/
 
-# Preview 
-
-<img width="645" height="486" alt="NoirSF2000" src="https://github.com/user-attachments/assets/d5ccbe57-5476-4b6c-88ab-15b15749fe51" />
+**ENJOY !**
 
 
 
