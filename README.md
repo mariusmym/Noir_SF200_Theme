@@ -13,9 +13,9 @@ Theme for Datafrog SF2000, withdark colors, inspired by garlicOS theme by Zerter
 
 - extract and copy the downloaded files from the Resources folder (if the **readme** file is included in the download dont forget to **not include it in the transfer to SF2000** )
 
-- paste & replace inside Resource folder of SD Card.
+- paste & replace inside Resource folder of SD Card
 
-- insert the SD card back to your SF2000.
+- insert the SD card back to your SF2000
 
 # User editable files 
 
