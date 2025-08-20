@@ -1,11 +1,11 @@
 # Noir_SF200_Theme
 Theme for Datafrog SF2000, withdark colors, inspired by garlicOS theme by Zerter.
 
-# How to "inslall" theme:
+# How to "install" the theme:
 
 -insert sd card to PC
 
--backup resource folder first (just in case anything happens or you want it back to stock design)
+-**backup resource folder first** (just in case anything happens or you want it back to stock design)
 
 -copy the downloaded files from the Resources folder (if the readme file is included in the download dont forget to not include it in the transfer to froggy)
 
