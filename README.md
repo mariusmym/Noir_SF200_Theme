@@ -29,6 +29,8 @@ Convertion tool used: https://vonmillhausen.github.io/sf2000/tools/genericImageT
 
 Assets list and reference: https://vonmillhausen.github.io/sf2000/
 
+**Join us on Discord** : https://discord.gg/BwXKxubz
+
 **ENJOY !**
 
 
