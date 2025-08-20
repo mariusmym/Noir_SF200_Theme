@@ -16,6 +16,7 @@ Theme for Datafrog SF2000, withdark colors, inspired by garlicOS theme by Zerter
 # User editable files 
 
 I also included the editable **.psd** files, so you can easily modify the images and further customize the theme to match your preferences. Some layers are a little messed up, but you can figure them out eventually. Shapes and text are not rasterized, so you can change the colors more easily.
+
 Each **.psd** file comes with a matching .png preview, so you can quickly see what it’s about.
 
 # Tools
