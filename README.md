@@ -1,5 +1,5 @@
 # Noir_SF200_Theme
-Theme for Datafrog SF2000, withdark colors, inspired by _**garlicOS theme by Zerter**_.
+Datafrog SF2000 theme, withdark colors, inspired by _**garlicOS theme by Zerter**_.
 
 # Releases
 Check **[releases](https://github.com/mariusmym/Noir_SF200_Theme/releases)** page for the latest one.
