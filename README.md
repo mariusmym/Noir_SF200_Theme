@@ -1,7 +1,7 @@
 # Noir_SF200_Theme
 Datafrog SF2000 theme, withdark colors, inspired by _**garlicOS theme by Zerter**_.
 
-Also included some **custom boot logos** and few useful **editabe files** that you can easily modify and make your own custom theme :) .
+Also included some **custom boot logos** and few useful **editabe files** that you can easily modify and make your own custom theme 🙂 .
 
 For more informations about theme creation and DataFrog related content **join us on Discord** : https://discord.gg/BwXKxubz
 
